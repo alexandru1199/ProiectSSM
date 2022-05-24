@@ -1,17 +1,8 @@
 
 document.write(` \ 
- <style>
- nav{
-    background-color: black;
-}
-.nav-item{
-    overflow: hidden    ;
-    font-size: 30px;
-    text-align: center;
-    padding: 16px;
-    color: purple;
-}
- </style>
+ 
+<link rel="stylesheet" href="Stil MeniuNavigatie.css">
+
     <nav> 
     <a class="nav-item" href="Homepage.html"> Homepage   </a> 
    
