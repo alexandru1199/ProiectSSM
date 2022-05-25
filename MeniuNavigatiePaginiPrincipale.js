@@ -6,9 +6,9 @@ document.write(` \
     <nav> 
     <a class="nav-item" href="Homepage.html"> Homepage   </a> 
    
-     <a class="nav-item" href="Carti.html"> Cărți</a>  
+     <a class="nav-item" href="PaginaCarti.html"> Cărți</a>  
      
-     <a class="nav-item" href="Contact.html"> Contact</a> 
+     <a class="nav-item" href="PaginaContact.html"> Contact</a> 
     </nav>  
     ` ) ;
   
