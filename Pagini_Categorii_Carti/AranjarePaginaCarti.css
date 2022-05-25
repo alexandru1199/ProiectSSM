@@ -2,3 +2,10 @@
 .Carte{
   padding-top: 20PX;
 }
+.imaginecarte{
+    height:150px;
+    width: 150px;
+}
+.cartePadding{
+    padding-right: 20px;
+}

@@ -1,7 +1,9 @@
 @import url("../../Stil_BackgroundSiText.css");
-.imagine{
+img {
 
     float:left;
+    height:361px;
+    width: 240px;
 }
  .titlu{
      font-size: 30px;
